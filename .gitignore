@@ -1,0 +1,14 @@
+# Ignore build artifacts and directories
+build/
+build.xml
+manifest.mf
+
+# Ignore NetBeans project files
+nbproject/
+
+# Ignore README files if they are specific to your local environment
+README.md
+
+# Ignore compiled source code
+*.class
+
